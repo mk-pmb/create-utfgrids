@@ -27,7 +27,7 @@ WARNING:
 
 Inspect the output (for example, zoom level 5, X=20, Y=18)
 ```
-$ cat ecoregions/5/20/18.json | python -mjson.tool
+$ <ecoregions/5/20/18.json python -mjson.tool
 {
     "data": {
         "192": {
